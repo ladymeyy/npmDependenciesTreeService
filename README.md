@@ -22,7 +22,7 @@ At the project root run:
 
 Then you can try the `/package` endpoint. 
 ```sh
-curl -s http://localhost:4001/package/react/16.13.0 | jq .
+curl -s http://localhost:4001/package/react/16.13.0 
 ```
 
 
