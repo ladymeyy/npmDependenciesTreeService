@@ -17,7 +17,8 @@ package.
 ## Getting Started
 
 At the project root run:
-```docker-compose up --build
+```
+docker-compose up --build
 ```
 
 Then you can try the `/package` endpoint. 
